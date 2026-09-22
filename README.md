@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Meenakshi 👋
 
-<!--
-**na000071/na000071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Development student and aspiring **Web Developer / Software Developer** based in Canada.
 
-Here are some ideas to get you started:
+I enjoy building responsive, accessible, and user-focused web applications and learning how different technologies work together from the front end to the back end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I Work With
+
+* **Frontend:** HTML, CSS, JavaScript, React
+* **Backend:** PHP, Laravel, C#, ASP.NET Core
+* **Databases:** MySQL, SQLite
+* **Tools:** Git, GitHub, VS Code, Visual Studio
+* **Design:** Figma, Photoshop, Illustrator
+
+### 🚀 What I'm Building
+
+I'm currently working on projects that help me strengthen my skills in:
+
+* Full-stack web development
+* React and modern JavaScript
+* PHP and Laravel
+* C# / .NET
+* Database-driven applications
+* Responsive and accessible web design
+
+### 🎓 Education
+
+**Algonquin College**
+Web Development & Internet Applications
+
+**Kurukshetra University**
+B.Sc. Statistics
+
+### 🌱 Currently Learning
+
+* React
+* Next.js
+* Node.js
+* C# / .NET
+* Full-stack application development
+
+### 📫 Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/meenakshi-kashyap-ba9818203/)
+* [Portfolio](YOUR-PORTFOLIO-URL)
+
+---
+
+⭐ Thanks for visiting my profile!
